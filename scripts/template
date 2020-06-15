@@ -1,0 +1,14 @@
+pragma Singleton
+import QtQuick 2.0
+
+Object {
+
+    FontLoader {
+        source: "./MaterialIcons-Regular.ttf"
+    }
+
+    readonly property string fontFamily: "Material Icons"
+
+    // IconsLists
+
+}
