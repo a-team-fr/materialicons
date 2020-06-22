@@ -1,2 +1,3 @@
 module MaterialIcons
 singleton MaterialIcons 1.0 MaterialIcons.qml
+ListMaterialIcons 1.0 ListMaterialIcons.qml

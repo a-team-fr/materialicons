@@ -4,5 +4,6 @@
         <file>MaterialIcons/qmldir</file>
         <file>MaterialIcons/Object.qml</file>
         <file>MaterialIcons/MaterialIcons-Regular.ttf</file>
+        <file>MaterialIcons/ListMaterialIcons.qml</file>
     </qresource>
 </RCC>
